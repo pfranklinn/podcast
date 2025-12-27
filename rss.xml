@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:itunes="https://www.itunes.apple.com/dtds/podcast-1.0.dtd"
+     xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Pedro Franklin Podcast</title>
     <description>Podcast sobre empreendedorismo, tecnologia e vida.</description>
     <language>pt-BR</language>
     <link>https://pedrofranklin.com</link>
     <atom:link href="https://pfranklinn.github.io/podcast/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- Campos RSS 2.0 padrao -->
+    <author>pedro.franklinn@gmail.com</author>
+    <webMaster>pedro.franklinn@gmail.com (Pedro Franklin)</webMaster>
+    <copyright>2025 Pedro Franklin</copyright>
+    <dc:creator>Pedro Franklin</dc:creator>
 
     <!-- Campos obrigatorios para Spotify/Apple/Google -->
     <itunes:author>Pedro Franklin</itunes:author>
