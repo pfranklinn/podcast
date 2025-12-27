@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="https://www.itunes.apple.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+  <channel>
+    <title>Pedro Franklin Podcast</title>
+    <description>Podcast sobre empreendedorismo, tecnologia e vida.</description>
+    <language>pt-BR</language>
+    <link>https://pedrofranklin.com</link>
+    <atom:link href="https://pfranklinn.github.io/podcast/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- Campos obrigatorios para Spotify/Apple/Google -->
+    <itunes:author>Pedro Franklin</itunes:author>
+    <itunes:summary>Podcast sobre empreendedorismo, tecnologia e vida.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Business"/>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>Pedro Franklin</googleplay:author>
+    <googleplay:email>pedro.franklinn@gmail.com</googleplay:email>
+    <googleplay:category text="Business"/>
+
+    <!-- Owner com email (obrigatorio) -->
+    <itunes:owner>
+      <itunes:name>Pedro Franklin</itunes:name>
+      <itunes:email>pedro.franklinn@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>pedro.franklinn@gmail.com (Pedro Franklin)</managingEditor>
+
+    <!-- Imagem de capa (obrigatoria - 1400x1400 min) -->
+    <itunes:image href="https://pfranklinn.github.io/podcast/cover.jpg"/>
+    <image>
+      <url>https://pfranklinn.github.io/podcast/cover.jpg</url>
+      <title>Pedro Franklin Podcast</title>
+      <link>https://pedrofranklin.com</link>
+    </image>
+
+    <!-- Episodios -->
+    <item>
+      <title>Episodio Teste - APAGAR</title>
+      <description><![CDATA[Episodio de teste do sistema RSS. Pode apagar.]]></description>
+      <guid isPermaLink="false">ep-20251226203154-14d3e5</guid>
+      <pubDate>Fri, 26 Dec 2025 20:31:54 </pubDate>
+      <enclosure url="https://pfranklinn.github.io/podcast/audio/ep001_ep-20251226203154-14d3e5.mp3" type="audio/mpeg" length="0"/>
+      <itunes:duration>0:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
