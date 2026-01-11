@@ -10,6 +10,7 @@
     <language>pt-BR</language>
     <link>https://pedrofranklin.com</link>
     <atom:link href="https://pfranklinn.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <author>pedro.franklinn@gmail.com</author>
 
     <!-- Campos obrigatorios para Spotify/Apple/Google -->
     <itunes:author>Pedro Franklin</itunes:author>
@@ -37,6 +38,17 @@
     </image>
 
     <!-- Episodios -->
+    <item>
+      <title>[TESTE] Verificando sincronizacao Spotify</title>
+      <description><![CDATA[Episodio de teste para verificar se o Spotify esta sincronizando o feed RSS corretamente. Pode apagar.]]></description>
+      <guid isPermaLink="false">ep-20260111142403-093069</guid>
+      <pubDate>Sun, 11 Jan 2026 14:24:03 </pubDate>
+      <enclosure url="https://pfranklinn.github.io/podcast/audio/ep002_ep-20260111142403-093069.mp3" type="audio/mpeg" length="0"/>
+      <itunes:duration>0:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+    </item>
     <item>
       <title>Episodio Teste - APAGAR</title>
       <description><![CDATA[Episodio de teste do sistema RSS. Pode apagar.]]></description>
