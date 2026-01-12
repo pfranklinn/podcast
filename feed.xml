@@ -39,6 +39,17 @@
 
     <!-- Episodios -->
     <item>
+      <title>EP01: Vibe Coding - O Que E e Por Que Voce Precisa Aprender Agora</title>
+      <description><![CDATA[Vibe Coding: a nova forma de criar software conversando com IA. Neste episodio, explico o que e Vibe Coding, por que 2026 e o ano da virada, e como voce pode comecar do zero.]]></description>
+      <guid isPermaLink="false">ep-20260112201748-678d62</guid>
+      <pubDate>Mon, 12 Jan 2026 20:17:48 </pubDate>
+      <enclosure url="https://pfranklinn.github.io/podcast/audio/ep001_ep-20260112201748-678d62.mp3" type="audio/mpeg" length="0"/>
+      <itunes:duration>32:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
       <title>[TESTE #3] Upload Automatizado Funcionando</title>
       <description><![CDATA[Terceiro episodio de teste. Sistema de upload automatizado validado com sucesso!]]></description>
       <guid isPermaLink="false">ep-20260111150416-4af93d</guid>
