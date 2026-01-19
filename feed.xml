@@ -11,6 +11,10 @@
     <link>https://pedrofranklin.com</link>
     <atom:link href="https://pfranklinn.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
+    <!-- Campos RSS 2.0 padrao (author e email) -->
+    <author>pedro.franklinn@gmail.com</author>
+    <webMaster>pedro.franklinn@gmail.com</webMaster>
+
     <!-- Campos obrigatorios para Spotify/Apple/Google -->
     <itunes:author>Pedro Franklin</itunes:author>
     <itunes:summary>Podcast sobre empreendedorismo, tecnologia e vida.</itunes:summary>
