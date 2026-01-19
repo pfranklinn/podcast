@@ -11,5 +11,44 @@
     "season_number": null,
     "explicit": false,
     "image_url": null
+  },
+  {
+    "id": "ep-20260111142403-093069",
+    "title": "[TESTE] Verificando sincronizacao Spotify",
+    "description": "Episodio de teste para verificar se o Spotify esta sincronizando o feed RSS corretamente. Pode apagar.",
+    "audio_file": "ep002_ep-20260111142403-093069.mp3",
+    "audio_url": "https://pfranklinn.github.io/podcast/audio/ep002_ep-20260111142403-093069.mp3",
+    "duration": 5,
+    "pub_date": "2026-01-11T14:24:03.500012",
+    "episode_number": 2,
+    "season_number": null,
+    "explicit": false,
+    "image_url": null
+  },
+  {
+    "id": "ep-20260111150416-4af93d",
+    "title": "[TESTE #3] Upload Automatizado Funcionando",
+    "description": "Terceiro episodio de teste. Sistema de upload automatizado validado com sucesso!",
+    "audio_file": "ep003_ep-20260111150416-4af93d.mp3",
+    "audio_url": "https://pfranklinn.github.io/podcast/audio/ep003_ep-20260111150416-4af93d.mp3",
+    "duration": 5,
+    "pub_date": "2026-01-11T15:04:16.982764",
+    "episode_number": 3,
+    "season_number": null,
+    "explicit": false,
+    "image_url": null
+  },
+  {
+    "id": "ep-20260112201748-678d62",
+    "title": "EP01: Vibe Coding - O Que E e Por Que Voce Precisa Aprender Agora",
+    "description": "Vibe Coding: a nova forma de criar software conversando com IA. Neste episodio, explico o que e Vibe Coding, por que 2026 e o ano da virada, e como voce pode comecar do zero.",
+    "audio_file": "ep001_ep-20260112201748-678d62.mp3",
+    "audio_url": "https://pfranklinn.github.io/podcast/audio/ep001_ep-20260112201748-678d62.mp3",
+    "duration": 1955,
+    "pub_date": "2026-01-12T20:17:48.961217",
+    "episode_number": 1,
+    "season_number": null,
+    "explicit": false,
+    "image_url": null
   }
 ]
